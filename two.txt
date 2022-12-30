@@ -1,3 +1,2 @@
 Second text file and second is the best
 
-from developer 2
